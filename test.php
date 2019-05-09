@@ -5,7 +5,7 @@ function a(){
     echo 789;
     $a = '蔡徐坤';
     if ($a == 'CC')
-        echo 'meinv';
+        echo '有亲人';
 }
 
 function b(){
