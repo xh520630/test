@@ -11,4 +11,5 @@ function a(){
 function b(){
     echo 456;
     echo 000;
+    echo '哈哈哈哈';
 }
