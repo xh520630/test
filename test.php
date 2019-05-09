@@ -4,8 +4,8 @@ function a(){
     echo 123;
     echo 789;
     $a = '蔡徐坤';
-    if ($a == '周杰伦')
-        echo '帅逼';
+    if ($a == 'CC')
+        echo 'meinv';
 }
 
 function b(){
