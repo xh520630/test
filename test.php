@@ -15,3 +15,7 @@ function b(){
     echo '我正在修改奇奇怪怪的东西';
     echo '我正在开发奇奇怪怪的东西';
 }
+
+function c(){
+    echo '这是个C方法';
+}
